@@ -1,5 +1,7 @@
 # Security-Catalogue
 
 Requirements:
-bootstrap
-djongo
+
+#bootstrap
+
+#djongo
